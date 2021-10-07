@@ -1,0 +1,469 @@
+testcase_1_distsquare_eps_0.0004_l_0.004_penalty_lbfgsiters_100addloss_2_adddim_0__seed_1
+Training...
+0        Train loss: 6299.9921875             Test loss: 6299.9921875             
+cost value: 4.0	
+constraint value: -1.0
+
+1000     Train loss: 164.81533813476562       Test loss: 164.81533813476562       
+cost value: 94.37178802490234	
+constraint value: -0.9998955726623535
+
+2000     Train loss: 45.38076400756836        Test loss: 45.38076400756836        
+cost value: 113.91118621826172	
+constraint value: -0.48283910751342773
+
+3000     Train loss: 23.300037384033203       Test loss: 23.300037384033203       
+cost value: 108.10868835449219	
+constraint value: -0.14429378509521484
+
+4000     Train loss: 16.01270866394043        Test loss: 16.01270866394043        
+cost value: 104.17755889892578	
+constraint value: -0.10404300689697266
+
+5000     Train loss: 12.265120506286621       Test loss: 12.265120506286621       
+cost value: 102.711181640625	
+constraint value: -0.10140156745910645
+
+6000     Train loss: 11.271607398986816       Test loss: 11.271607398986816       
+cost value: 101.48802185058594	
+constraint value: -0.09686648845672607
+
+7000     Train loss: 10.349802017211914       Test loss: 10.349802017211914       
+cost value: 101.83264923095703	
+constraint value: -0.06457769870758057
+
+8000     Train loss: 9.854594230651855        Test loss: 9.854594230651855        
+cost value: 100.72492980957031	
+constraint value: -0.0681678056716919
+
+9000     Train loss: 10.271906852722168       Test loss: 10.271906852722168       
+cost value: 100.69921875	
+constraint value: -0.06950324773788452
+
+10000    Train loss: 9.620219230651855        Test loss: 9.620219230651855        
+cost value: 100.80955505371094	
+constraint value: -0.0612109899520874
+
+11000    Train loss: 10.508407592773438       Test loss: 10.508407592773438       
+cost value: 100.3921127319336	
+constraint value: -0.14079749584197998
+
+12000    Train loss: 9.046659469604492        Test loss: 9.046659469604492        
+cost value: 99.5808334350586	
+constraint value: -0.05482685565948486
+
+13000    Train loss: 9.22282600402832         Test loss: 9.22282600402832         
+cost value: 99.60539245605469	
+constraint value: -0.062191009521484375
+
+14000    Train loss: 9.109915733337402        Test loss: 9.109915733337402        
+cost value: 98.92516326904297	
+constraint value: -0.09250426292419434
+
+15000    Train loss: 8.785696029663086        Test loss: 8.785696029663086        
+cost value: 98.90032196044922	
+constraint value: -0.07751041650772095
+
+16000    Train loss: 8.607053756713867        Test loss: 8.607053756713867        
+cost value: 98.24063873291016	
+constraint value: -0.0564456582069397
+
+17000    Train loss: 8.717355728149414        Test loss: 8.717355728149414        
+cost value: 98.11077117919922	
+constraint value: -0.08163303136825562
+
+18000    Train loss: 8.61837100982666         Test loss: 8.61837100982666         
+cost value: 98.1255111694336	
+constraint value: -0.04980874061584473
+
+19000    Train loss: 8.520730972290039        Test loss: 8.520730972290039        
+cost value: 97.88496398925781	
+constraint value: -0.05401968955993652
+
+20000    Train loss: 8.968076705932617        Test loss: 8.968076705932617        
+cost value: 98.67483520507812	
+constraint value: -0.05561685562133789
+
+21000    Train loss: 8.479572296142578        Test loss: 8.479572296142578        
+cost value: 98.19442749023438	
+constraint value: -0.04707646369934082
+
+22000    Train loss: 8.519882202148438        Test loss: 8.519882202148438        
+cost value: 98.07035064697266	
+constraint value: -0.054047584533691406
+
+23000    Train loss: 8.504008293151855        Test loss: 8.504008293151855        
+cost value: 97.81784057617188	
+constraint value: -0.09251266717910767
+
+24000    Train loss: 8.277770042419434        Test loss: 8.277770042419434        
+cost value: 97.32586669921875	
+constraint value: -0.050133466720581055
+
+25000    Train loss: 8.632403373718262        Test loss: 8.632403373718262        
+cost value: 98.03724670410156	
+constraint value: -0.09519785642623901
+
+26000    Train loss: 8.268754005432129        Test loss: 8.268754005432129        
+cost value: 97.46244812011719	
+constraint value: -0.04871338605880737
+
+27000    Train loss: 8.69421100616455         Test loss: 8.69421100616455         
+cost value: 98.2408676147461	
+constraint value: -0.06094139814376831
+
+28000    Train loss: 8.179469108581543        Test loss: 8.179469108581543        
+cost value: 97.2972640991211	
+constraint value: -0.048359036445617676
+
+29000    Train loss: 8.180808067321777        Test loss: 8.180808067321777        
+cost value: 97.26419067382812	
+constraint value: -0.0443272590637207
+
+30000    Train loss: 8.244096755981445        Test loss: 8.244096755981445        
+cost value: 97.2764663696289	
+constraint value: -0.0736989974975586
+
+31000    Train loss: 8.257349014282227        Test loss: 8.257349014282227        
+cost value: 97.59163665771484	
+constraint value: -0.07342606782913208
+
+32000    Train loss: 8.174520492553711        Test loss: 8.174520492553711        
+cost value: 97.2015151977539	
+constraint value: -0.059958040714263916
+
+33000    Train loss: 8.310324668884277        Test loss: 8.310324668884277        
+cost value: 97.49994659423828	
+constraint value: -0.06754690408706665
+
+34000    Train loss: 8.089922904968262        Test loss: 8.089922904968262        
+cost value: 97.00366973876953	
+constraint value: -0.06760656833648682
+
+35000    Train loss: 7.998530387878418        Test loss: 7.998530387878418        
+cost value: 96.57669830322266	
+constraint value: -0.057812392711639404
+
+36000    Train loss: 8.043675422668457        Test loss: 8.043675422668457        
+cost value: 97.07572937011719	
+constraint value: -0.04700672626495361
+
+37000    Train loss: 8.04331111907959         Test loss: 8.04331111907959         
+cost value: 96.82381439208984	
+constraint value: -0.07117211818695068
+
+38000    Train loss: 8.148488998413086        Test loss: 8.148488998413086        
+cost value: 97.48590850830078	
+constraint value: -0.05924767255783081
+
+39000    Train loss: 8.044734954833984        Test loss: 8.044734954833984        
+cost value: 97.23567199707031	
+constraint value: -0.051865994930267334
+
+40000    Train loss: 8.007123947143555        Test loss: 8.007123947143555        
+cost value: 96.76436614990234	
+constraint value: -0.07118690013885498
+
+41000    Train loss: 8.00934886932373         Test loss: 8.00934886932373         
+cost value: 96.4062271118164	
+constraint value: -0.057977259159088135
+
+42000    Train loss: 8.037834167480469        Test loss: 8.037834167480469        
+cost value: 96.91523742675781	
+constraint value: -0.06085538864135742
+
+43000    Train loss: 7.913419723510742        Test loss: 7.913419723510742        
+cost value: 96.12366485595703	
+constraint value: -0.07213318347930908
+
+44000    Train loss: 7.935762882232666        Test loss: 7.935762882232666        
+cost value: 96.10285949707031	
+constraint value: -0.05407363176345825
+
+45000    Train loss: 8.086073875427246        Test loss: 8.086073875427246        
+cost value: 96.69509887695312	
+constraint value: -0.06023824214935303
+
+46000    Train loss: 8.051365852355957        Test loss: 8.051365852355957        
+cost value: 96.2271499633789	
+constraint value: -0.07787007093429565
+
+47000    Train loss: 8.113021850585938        Test loss: 8.113021850585938        
+cost value: 96.23416137695312	
+constraint value: -0.09481990337371826
+
+48000    Train loss: 7.877444267272949        Test loss: 7.877444267272949        
+cost value: 96.0412368774414	
+constraint value: -0.061905741691589355
+
+49000    Train loss: 7.835507392883301        Test loss: 7.835507392883301        
+cost value: 96.01358032226562	
+constraint value: -0.05679506063461304
+
+50000    Train loss: 7.869901657104492        Test loss: 7.869901657104492        
+cost value: 96.15036010742188	
+constraint value: -0.06278979778289795
+
+51000    Train loss: 8.049859046936035        Test loss: 8.049859046936035        
+cost value: 95.95669555664062	
+constraint value: -0.06358069181442261
+
+52000    Train loss: 7.907598972320557        Test loss: 7.907598972320557        
+cost value: 96.03498077392578	
+constraint value: -0.059676527976989746
+
+53000    Train loss: 7.960826396942139        Test loss: 7.960826396942139        
+cost value: 95.55934143066406	
+constraint value: -0.06581974029541016
+
+54000    Train loss: 7.906607151031494        Test loss: 7.906607151031494        
+cost value: 95.91839599609375	
+constraint value: -0.06126093864440918
+
+55000    Train loss: 8.083151817321777        Test loss: 8.083151817321777        
+cost value: 96.5143051147461	
+constraint value: -0.068065345287323
+
+56000    Train loss: 7.9807233810424805       Test loss: 7.9807233810424805       
+cost value: 95.91508483886719	
+constraint value: -0.06977230310440063
+
+57000    Train loss: 7.793582916259766        Test loss: 7.793582916259766        
+cost value: 95.89649200439453	
+constraint value: -0.05804133415222168
+
+58000    Train loss: 7.800675392150879        Test loss: 7.800675392150879        
+cost value: 95.923828125	
+constraint value: -0.05313766002655029
+
+59000    Train loss: 7.839698791503906        Test loss: 7.839698791503906        
+cost value: 95.66876220703125	
+constraint value: -0.06300103664398193
+
+60000    Train loss: 7.893680572509766        Test loss: 7.893680572509766        
+cost value: 95.70132446289062	
+constraint value: -0.06089460849761963
+
+61000    Train loss: 7.78026819229126         Test loss: 7.78026819229126         
+cost value: 95.9377670288086	
+constraint value: -0.05806237459182739
+
+62000    Train loss: 8.04536247253418         Test loss: 8.04536247253418         
+cost value: 95.52658081054688	
+constraint value: -0.06912332773208618
+
+63000    Train loss: 7.831146240234375        Test loss: 7.831146240234375        
+cost value: 96.18061065673828	
+constraint value: -0.05952763557434082
+
+64000    Train loss: 8.4650239944458          Test loss: 8.4650239944458          
+cost value: 97.01814270019531	
+constraint value: -0.0895155668258667
+
+65000    Train loss: 7.823357105255127        Test loss: 7.823357105255127        
+cost value: 95.4738540649414	
+constraint value: -0.06503605842590332
+
+66000    Train loss: 7.850651741027832        Test loss: 7.850651741027832        
+cost value: 95.8487777709961	
+constraint value: -0.05685925483703613
+
+67000    Train loss: 7.930541515350342        Test loss: 7.930541515350342        
+cost value: 95.94113159179688	
+constraint value: -0.06257826089859009
+
+68000    Train loss: 7.944800853729248        Test loss: 7.944800853729248        
+cost value: 95.73490142822266	
+constraint value: -0.06459635496139526
+
+69000    Train loss: 7.8074517250061035       Test loss: 7.8074517250061035       
+cost value: 95.53453063964844	
+constraint value: -0.05709993839263916
+
+70000    Train loss: 7.818687915802002        Test loss: 7.818687915802002        
+cost value: 95.87442016601562	
+constraint value: -0.0655396580696106
+
+71000    Train loss: 7.896531581878662        Test loss: 7.896531581878662        
+cost value: 95.85894012451172	
+constraint value: -0.06862533092498779
+
+72000    Train loss: 7.756143093109131        Test loss: 7.756143093109131        
+cost value: 95.66453552246094	
+constraint value: -0.06257784366607666
+
+73000    Train loss: 7.958805561065674        Test loss: 7.958805561065674        
+cost value: 96.17169952392578	
+constraint value: -0.05659198760986328
+
+74000    Train loss: 7.808615207672119        Test loss: 7.808615207672119        
+cost value: 95.47832489013672	
+constraint value: -0.06578302383422852
+
+75000    Train loss: 7.7280778884887695       Test loss: 7.7280778884887695       
+cost value: 95.73262786865234	
+constraint value: -0.05930215120315552
+
+76000    Train loss: 7.923964977264404        Test loss: 7.923964977264404        
+cost value: 95.489990234375	
+constraint value: -0.06744492053985596
+
+77000    Train loss: 7.923320293426514        Test loss: 7.923320293426514        
+cost value: 96.05366516113281	
+constraint value: -0.07123792171478271
+
+78000    Train loss: 7.799672603607178        Test loss: 7.799672603607178        
+cost value: 95.85304260253906	
+constraint value: -0.0654560923576355
+
+79000    Train loss: 8.054727554321289        Test loss: 8.054727554321289        
+cost value: 95.61190795898438	
+constraint value: -0.08722853660583496
+
+80000    Train loss: 7.833236217498779        Test loss: 7.833236217498779        
+cost value: 96.1281967163086	
+constraint value: -0.06480187177658081
+
+81000    Train loss: 7.839478969573975        Test loss: 7.839478969573975        
+cost value: 95.79852294921875	
+constraint value: -0.06279349327087402
+
+82000    Train loss: 7.896607875823975        Test loss: 7.896607875823975        
+cost value: 95.66753387451172	
+constraint value: -0.06569641828536987
+
+83000    Train loss: 7.899989128112793        Test loss: 7.899989128112793        
+cost value: 95.54277038574219	
+constraint value: -0.07263869047164917
+
+84000    Train loss: 7.7523651123046875       Test loss: 7.7523651123046875       
+cost value: 95.5831527709961	
+constraint value: -0.060551583766937256
+
+85000    Train loss: 7.765923023223877        Test loss: 7.765923023223877        
+cost value: 95.9737319946289	
+constraint value: -0.06395614147186279
+
+86000    Train loss: 7.958589553833008        Test loss: 7.958589553833008        
+cost value: 95.92332458496094	
+constraint value: -0.07065701484680176
+
+87000    Train loss: 7.801913261413574        Test loss: 7.801913261413574        
+cost value: 95.50593566894531	
+constraint value: -0.06913149356842041
+
+88000    Train loss: 7.86276388168335         Test loss: 7.86276388168335         
+cost value: 96.03360748291016	
+constraint value: -0.06799042224884033
+
+89000    Train loss: 7.7424163818359375       Test loss: 7.7424163818359375       
+cost value: 95.63191223144531	
+constraint value: -0.0608367919921875
+
+90000    Train loss: 7.899992942810059        Test loss: 7.899992942810059        
+cost value: 95.9112319946289	
+constraint value: -0.05833500623703003
+
+91000    Train loss: 7.740838050842285        Test loss: 7.740838050842285        
+cost value: 95.7442855834961	
+constraint value: -0.05969083309173584
+
+92000    Train loss: 7.899320602416992        Test loss: 7.899320602416992        
+cost value: 95.61483001708984	
+constraint value: -0.06444847583770752
+
+93000    Train loss: 7.744313716888428        Test loss: 7.744313716888428        
+cost value: 95.80957794189453	
+constraint value: -0.05966001749038696
+
+94000    Train loss: 7.762934684753418        Test loss: 7.762934684753418        
+cost value: 95.79975891113281	
+constraint value: -0.06505352258682251
+
+95000    Train loss: 7.791232109069824        Test loss: 7.791232109069824        
+cost value: 95.75439453125	
+constraint value: -0.0578036904335022
+
+96000    Train loss: 7.834895610809326        Test loss: 7.834895610809326        
+cost value: 95.46614074707031	
+constraint value: -0.059789180755615234
+
+97000    Train loss: 7.870298862457275        Test loss: 7.870298862457275        
+cost value: 95.64238739013672	
+constraint value: -0.059153616428375244
+
+98000    Train loss: 7.868923664093018        Test loss: 7.868923664093018        
+cost value: 95.5150375366211	
+constraint value: -0.05564457178115845
+
+99000    Train loss: 7.753795146942139        Test loss: 7.753795146942139        
+cost value: 95.75919342041016	
+constraint value: -0.06307286024093628
+
+100000   Train loss: 7.7354912757873535       Test loss: 7.7354912757873535       
+cost value: 95.45850372314453	
+constraint value: -0.062469542026519775
+
+Done!
+'run' took 1357.406421661377 s
+Best model at iteration 100000:
+Train loss: 7.7354912757873535 Test loss: 7.7354912757873535
+Done!
+
+NN cost and hdistmin:
+cost value: 95.4585189819336	
+min dist: -0.03173842254269443, min distsquare: -0.06246951761989017
+
+max initial eq constraint val:
+0.05060271056074851
+min initial ineq constraint val:
+-0.05406344366119131
+minh 0.00022299445517126593
+maxeq 1.2109756253320114e-09
+minh 2.713834384771019e-06
+maxeq 1.789445369659859e-09
+minh 2.642800411845059e-07
+maxeq 2.589761544102842e-09
+minh 4.863087266215871e-09
+maxeq 1.0996832611187557e-09
+minh 7.900324394682912e-09
+maxeq 9.369897358002532e-10
+minh 1.1127524257581456e-07
+maxeq 4.2909328867857255e-10
+minh 8.106344129288345e-08
+maxeq 2.6378912942881527e-10
+minh 1.4499997202932491e-08
+maxeq 1.921529879655992e-10
+minh 4.085913829499077e-10
+maxeq 3.954947480622195e-11
+minh 4.9626560638671435e-09
+maxeq 3.339589715878333e-11
+minh 2.0100521247456982e-10
+maxeq 2.2255558507211504e-11
+minh 9.735101613728148e-12
+maxeq 4.147626686545891e-12
+minh 9.654499422140361e-13
+maxeq 3.950478832948079e-12
+minh -1.5343282200319663e-13
+maxeq 2.3458318620939167e-12
+minh -1.2605472221594027e-12
+maxeq 5.335454300592346e-13
+minh -2.6362245719724342e-12
+maxeq 1.9051427102567686e-13
+Optimization terminated successfully    (Exit mode 0)
+            Current function value: 3575.4865294962524
+            Iterations: 16
+            Function evaluations: 17
+            Gradient evaluations: 16
+max PS eq constraint val:
+1.9051427102567686e-13
+min PS ineq constraint val:
+-2.6362245719724342e-12
+ 
+
+PS running time: 33.52656692289747
+
+PS cost and hdistmin:
+cost value: 94.54611266113105	
+min dist: -1.3181677971374484e-12, min distsquare: -2.6362245719724342e-12
+
