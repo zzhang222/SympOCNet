@@ -127,7 +127,7 @@ class SPNN(ln.nn.LossNN):
         qp = self.net(QP)    
         grad_output = self.params['Qslope'].repeat([1,QP.shape[0]//self.trajs, 1]).reshape([-1, self.latent_dim])
         grad_output1 = torch.cat([grad_output,torch.zeros_like(grad_output)], dim = -1)
-        v = torch.autograd.functional.jvp(self.net, QP, grad_output1, create_graph=True)[1][:,:self.latent_dim].reshape([self.trajs, -1, self.latent_dim])  # trajs * num * dim
+        v = torch.autograd.functional.jvp(self.net, QP, grad_output1, create_graph=True)[1][:,:self.dim].reshape([self.trajs, -1, self.dim])  # trajs * num * dim
         if returnnp:
             v = v.detach().cpu().numpy()
         return v
